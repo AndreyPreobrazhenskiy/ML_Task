@@ -23,7 +23,7 @@
 
 - Email: andr163rus@inbox.ru
 - GitHub: [AndreyPreobrazhenskiy](https://github.com/AndreyPreobrazhenskiy)
-- Telegram: @andrey_mrakobes
+- Telegram: [@andrey_mrakobes](https://t.me/andrey_mrakobes)
 
 ## Проекты
 
